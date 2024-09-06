@@ -17,8 +17,8 @@ public class Grid_02 {
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getTitle());
 
-
 	}
+
 
 
 	@Test
@@ -29,9 +29,10 @@ public class Grid_02 {
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getTitle());
 
-
-
 	}
+
+
+
 
 
 
